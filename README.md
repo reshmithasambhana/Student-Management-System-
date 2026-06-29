@@ -11,15 +11,14 @@ A simple GUI-based Student Management System built using Python and Tkinter.
 ## Technologies Used
 - Python
 - Tkinter
+ 
+## 📸 Screenshots
 
-## Screenshots
-## Screenshots
-
-### Main Window
-![home](screenshots/home.ss)
+### Home Screen
+![Home](Screenshots/home.ss.png)
 
 ### Add Student
-![add_student](screenshots/add.student.ss)
+![Add Student](Screenshots/add.details.ss.png)
 
-### Delete Student
-![records](screenshots/delete.ss)
+### delete Students
+![ Delete Students](Screenshots/delete.ss.png)
